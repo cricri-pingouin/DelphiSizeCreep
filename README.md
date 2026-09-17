@@ -1,4 +1,4 @@
-Over time, I have compiled one of my project, [SliSame](https://github.com/cricri-pingouin/SliSame) for no particular reason, with different versions of the Delphi IDE.
+Over time, I have compiled one of my projects, [SliSame](https://github.com/cricri-pingouin/SliSame) for no particular reason, with different versions of the Delphi IDE.
 
 Below is a list of the built executable (SliSame.exe) and size, with no changes whatsoever to the source code.
 
