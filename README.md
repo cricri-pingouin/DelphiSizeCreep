@@ -21,6 +21,7 @@ For fun, here is a chart:
 And for more fun, with a not too shabby R^2 value of 0.9648, the data predicts the size of my 0.49MB [SliSame.exe](https://github.com/cricri-pingouin/SliSame/releases/tag/v1.01) executable compiled with the latest IDE to be:
 
 Year | Executable size (MB)
+--- | ---
 2030 | 2.69
 2035 | 3.10
 2040 | 3.51
