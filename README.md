@@ -29,3 +29,5 @@ Year | Executable size (MB)
 2040 | 3.51
 2045 | 3.93
 2050 | 4.34
+
+I'll have to wait until 2056 before size has increased by a measly order of magnitude. If someone asks how we ever managed with less disk space and RAM, here is your answer.
