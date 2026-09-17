@@ -3,8 +3,8 @@ Over time, I have compiled one of my project [SliSame](https://github.com/cricri
 Below is a list of the built executable (SliSame.exe) and size, with no changes whatsoever to the source code.
 
 Delphi version | Year released | Built executable size (bytes)
---- | --- 
-Delphi 7 | 2002|  508,928
+--- | --- | ---
+Delphi 7 | 2002 |  508,928
 Delphi 2006 (Turbo Delphi) | 2005 | 508,928
 Delphi 2010 | 2009 | 973,312
 XE | 2010 | 982,016
