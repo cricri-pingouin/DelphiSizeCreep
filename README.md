@@ -15,10 +15,13 @@ Delphi 13.1 | 2025 | 2,275,328
 For some reason, Delphi 7 and Delphi 2006 (Turbo Delphi) seem to build the exact same size. I have checked the 2 files hashes and they are different, so presumably I didn't mess up and mislabel and this is purely concidental.
 
 For fun, here is a chart:
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/a4349a57-0c7f-4297-b74d-3a4de56df1a7" />
 
+And for more fun, with a not too shabby R^2 value of 0.9648, the data predicts the size of my 0.49MB [SliSame.exe](https://github.com/cricri-pingouin/SliSame/releases/tag/v1.01) executable compiled with the latest IDE to be:
 
-And for more fun, with a not too shabby R^2 value of 0.9648, the data predicts the size of this executable at any year to be:
-
-Executable size (bytes) = 
-
-E.g. in 2040, my SliSame.exe executable size is predicted (?) to be:
+Year | Executable size (MB)
+2030 | 2.69
+2035 | 3.10
+2040 | 3.51
+2045 | 3.93
+2050 | 4.34
